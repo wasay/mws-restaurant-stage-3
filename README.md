@@ -42,6 +42,8 @@ Let's start with running commands in your terminal, known as command line interf
 ###### Start the server
 ```Start server
 # node server
+OR
+# npm start
 ```
 ### You should now have access to your API server environment
 debug: Environment : development
